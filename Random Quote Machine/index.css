@@ -1,0 +1,16 @@
+body {
+    background-image: url('../img/img-1288.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    color: #2C2C2C ;
+  }
+  
+  #quote-box {
+      margin-top: 25vh;
+      font-family: 'Bebas Neue', cursive;
+      background-color: rgb(236, 240, 241, 0.4);
+      border-radius:1rem;
+      border: none;
+  }
